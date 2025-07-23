@@ -1,18 +1,25 @@
-## Getting Started
+# PILARES DO POO  #
+## 🔑 Conceitos Fundamentais
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+- **Classe**: É o molde para criar objetos. Define os atributos (dados) e métodos (ações) que os objetos terão.
 
-## Folder Structure
+- **Objeto**: É uma instância de uma classe. Cada objeto tem seus próprios valores de atributos definidos pela classe.
 
-The workspace contains two folders by default, where:
+- **Encapsulamento**: É o princípio de esconder os detalhes internos de um objeto, expondo apenas o necessário. Protege os dados e organiza melhor o código.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+- **Herança**: Permite que uma classe herde atributos e métodos de outra, promovendo reuso de código e hierarquias.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+- **Polimorfismo**: Capacidade de um método ter diferentes comportamentos dependendo do objeto que o invoca.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+- **Abstração**: Foca nos aspectos essenciais de um objeto, ocultando os detalhes que não são relevantes para o contexto.
 
-## Dependency Management
+---
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## ✅ Benefícios da POO
+
+- Código mais organizado e modular  
+- Maior reutilização de código  
+- Facilidade de manutenção e testes  
+- Modelagem próxima do mundo real  
+
+---
